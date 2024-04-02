@@ -7,7 +7,7 @@ DAVID MWANGI
 This is a PrimeNumberFilter project. 
 
 ### Live sites
-https://davidmwangi2.github.io/my-porfolio2/
+https://github.com/davidmwangi2/my-portfolio.git
 https://github.com/davidmwangi2/Toy-problem.git
 
 #### Technologies Used
